@@ -1,3 +1,3 @@
 # Hello world
 This is my first repository.
-I am looking forward to learning more or les.
+I am looking forward to learning more or less.
